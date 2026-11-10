@@ -1,0 +1,4 @@
+project_id = "muraga"
+
+[functions.student-auth]
+verify_jwt = true
